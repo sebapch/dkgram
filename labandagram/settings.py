@@ -82,12 +82,7 @@ WSGI_APPLICATION = 'labandagram.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'db_dk',
-        'USER' : 'b1admin',
-        'PASSWORD':'Riquelme10',
-        'HOST' : '192.168.0.57',
-        'PORT': '3325',
+
     }
 }
 
